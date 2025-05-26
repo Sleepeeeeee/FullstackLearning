@@ -1,0 +1,34 @@
+body {
+  font-family: "Source Code Pro", monospace;
+  font-style: italic;
+}
+h1 {
+    text-align: center;
+}
+
+
+table {
+    margin: auto;
+}
+
+td{
+  height: 500px;
+  width: 200px;
+  border: 5px solid #ffffff;
+}
+
+#c1 {
+    background-color: #8ecae6;
+}
+#c2 {
+    background-color: #219ebc;
+}
+#c3 {
+    background-color: #023047;
+}
+#c4 {
+    background-color: #ffb703;
+}
+#c5 {
+    background-color: #fb8500;
+}

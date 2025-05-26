@@ -1,0 +1,28 @@
+h1{
+    font-family: "Ole", cursive;
+}
+
+p{
+    font-family: "Comic Sans MS";
+    font-style: italic;
+}
+
+body{
+    font-size: 20px;        
+}
+
+#top{
+    font-size: 2.0em;
+    border: 2px solid rgb(250, 242, 0);
+    width:100%;
+    padding: 20px;
+    text-align: center;
+}
+
+#bottom{
+    font-size: 1.5em;
+    border: 2px solid rgb(0, 242, 250);
+    width:75%;
+    padding: 20px;
+    text-align: center;
+}
